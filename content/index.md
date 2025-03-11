@@ -1,3 +1,15 @@
+---
+navigation:
+  title: Home
+  description: Homepage of my blog
+  icon: home
+title: Homepage is my name
+description: The first page of my blog is the homepage
+seo:
+  title: SEO Homepage is my name
+  description: SEO The first page of my blog is the homepage
+---
+
 # Welcome to Nuxt Content Starter
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/larbish/starter/blob/content/content/index.md).
